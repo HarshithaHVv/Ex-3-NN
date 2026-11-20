@@ -1,7 +1,10 @@
-<H3>ENTER YOUR NAME</H3>
+<H3>ENTER YOUR NAME</H3> 
+Harshitha HV
 <H3>ENTER YOUR REGISTER NO.</H3>
+212225230098
 <H3>EX. NO.3</H3>
 <H3>DATE:</H3>
+20/11/26
 <H2 aligh = center> Implementation of MLP for a non-linearly separable data</H2>
 <h3>Aim:</h3>
 To implement a perceptron for classification using Python
